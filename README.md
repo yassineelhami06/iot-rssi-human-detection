@@ -129,20 +129,18 @@ Le dashboard ThingsBoard permet de visualiser :
 ## 🔗 Liens du projet
 
 ### Wokwi
-Ajouter ici votre lien Wokwi
+[lien Wokwi](https://wokwi.com/projects/463202493294010369)
 
 ### GitHub
-Ajouter ici votre lien GitHub
+[lien GitHub](https://github.com/yassineelhami06/iot-rssi-human-detection)
 
 ---
 
 ## 📷 Captures
 
 Ajouter ici :
-- captures Wokwi
-- dashboard ThingsBoard
-- alertes
-- graphiques RSSI
+
+-[`screenshots`](./screenshots)
 
 ---
 

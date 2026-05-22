@@ -87,7 +87,7 @@ WiFi → ESP32 → Analyse RSSI → Filtrage → Détection → MQTT → ThingsB
 ### 1. Ouvrir le projet Wokwi
 
 Importer :
-- `main.ino`
+- `main.cpp`
 - `diagram.json`
 
 ### 2. Lancer la simulation

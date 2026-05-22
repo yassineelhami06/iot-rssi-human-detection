@@ -129,10 +129,18 @@ Le dashboard ThingsBoard permet de visualiser :
 ## 🔗 Liens du projet
 
 ### Wokwi
-[lien Wokwi](https://wokwi.com/projects/463202493294010369)
+[lien Wokwi](https://wokwi.com/projects/463202493294010369) 
 
 ### GitHub
 [lien GitHub](https://github.com/yassineelhami06/iot-rssi-human-detection)
+
+### ⚠️ Troubleshooting
+
+If you encounter connection delays or dashboard loading issues with ThingsBoard, simply refresh the page and wait a few seconds.
+
+The public/demo ThingsBoard server may occasionally experience reloads or temporary latency.
+
+To improve development stability, the project was compiled locally using VSCode + PlatformIO instead of relying entirely on online compilation.
 
 ---
 

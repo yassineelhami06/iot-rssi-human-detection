@@ -146,7 +146,7 @@ To improve development stability, the project was compiled locally using VSCode 
 
 ## 📷 Captures
 
-Ajouter ici :
+
 
 -[`screenshots`](./screenshots)
 
